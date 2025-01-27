@@ -6,5 +6,5 @@ This program displays my name
 
 ## how to install?
 ```
-npx miguel
+npx miguel-martinez-serrato
 ```
