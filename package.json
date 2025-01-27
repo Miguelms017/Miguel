@@ -1,12 +1,16 @@
 {
   "name": "miguel-martinez-serrato",
-  "version": "1.0.02",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "bin": {
-    "miguel-martinez-serrato": "index.js"
+    "miguel-martinez-serrato": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Miguel Angel Martinez Serrato <g00301640@stu.raritanval.edu> (https://github.com/Miguelms017)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/Miguelms017/Miguel"
 }
