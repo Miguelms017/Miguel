@@ -7,10 +7,16 @@
     "miguel-martinez-serrato": "./index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint index.js"
   },
   "keywords": [],
   "author": "Miguel Angel Martinez Serrato <g00301640@stu.raritanval.edu> (https://github.com/Miguelms017)",
   "license": "MIT",
-  "repository": "https://github.com/Miguelms017/Miguel"
+  "repository": "https://github.com/Miguelms017/Miguel",
+  "devDependencies": {
+    "@eslint/js": "^9.19.0",
+    "eslint": "^9.19.0",
+    "globals": "^15.14.0"
+  }
 }
